@@ -1,0 +1,35 @@
+<custom-style>
+  <style>
+    html {
+      --default-primary-color : #002655;
+      --light-primary-color   : #335379;
+      --very-light-primary-color : #B2BDCF;
+      
+      --default-secondary-color : #daaa00;
+      --light-secondary-color : #F8EECC;
+
+      --white-color             : #F3F3F3;
+      --gray-color              : #808080;
+      --turquoise               : #008EAA;
+
+
+      
+      --text-primary-color      : #222222;
+      --primary-text-color      : var(--text-primary-color);
+      --inverse-text-color      : var(--color-white);
+
+      --max-width               : 1200px;
+    }
+
+    body, html {
+      @apply --paper-font-common-base;
+      font-size        : 16px;
+      font-weight      : 200;
+      margin           : 0;
+      padding          : 0;
+      height           : 100%;
+      background-color : var(--default-primary-color);
+      color            : var(--text-primary-color);
+    }
+  </style>
+</custom-style>

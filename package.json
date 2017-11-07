@@ -1,0 +1,24 @@
+{
+  "name": "@ucd-lib/fin-styles",
+  "version": "0.0.1",
+  "description": "UCD FIN (fedora-in-docker) shared styles",
+  "main": "fin-styles.js",
+  "dependencies": {
+    "@polymer/paper-styles": "^3.0.0-pre.1",
+    "@polymer/polymer": "^3.0.0-pre.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucd-fin/fin-styles.git"
+  },
+  "author": "jrmerz@ucdavis.edu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ucd-fin/fin-styles/issues"
+  },
+  "homepage": "https://github.com/ucd-fin/fin-styles#readme"
+}
