@@ -1,11 +1,11 @@
 {
   "name": "@ucd-lib/fin-styles",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "UCD FIN (fedora-in-docker) shared styles",
   "main": "fin-styles.js",
   "dependencies": {
-    "@polymer/paper-styles": "^3.0.0-pre.1",
-    "@polymer/polymer": "^3.0.0-pre.1"
+    "@polymer/paper-styles": "^3.0.0-pre.18",
+    "@polymer/polymer": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {
